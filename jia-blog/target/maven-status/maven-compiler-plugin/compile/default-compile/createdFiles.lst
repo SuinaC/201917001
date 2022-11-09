@@ -1,0 +1,6 @@
+com/jia/JiaBlogApplication.class
+com/jia/controller/BlogLoginController.class
+com/jia/controller/LinkController.class
+com/jia/controller/ArticleController.class
+com/jia/config/SecurityConfig.class
+com/jia/controller/CategoryController.class
